@@ -55,18 +55,11 @@ namespace Converter
                         myIndexesKKS.Add(i);
                         myCount.Add(MyAllSensors[i].MyListRecordsForOneKKS.Count);
 
-                     //  MessageBox.Show(myIndexes[0].KKS_Name.ToString());
-                      //  MessageBox.Show(CheckedNodes.Count.ToString());
-                        //MyFileRecord.WriteLine(MyAllSensors[i].KKS_Name);
-                        //for (int j = 0; j < MyAllSensors[i].MyListRecordsForOneKKS.Count; j++)
-                        //{
-                        //    MyFileRecord.WriteLine(MyAllSensors[i].MyListRecordsForOneKKS[j].DateTime + " " + MyAllSensors[i].MyListRecordsForOneKKS[j].Value);
-                        //}
+            
                     }
-                   // else {}
+
                 }
-             //   temp++;
-                // MessageBox.Show(checkedNode.Text.ToString());
+
             }
 
 
